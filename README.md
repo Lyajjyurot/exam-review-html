@@ -1,8 +1,8 @@
 # exam-review-html
 
 把 PDF/Word 考试提纲转换成**单文件交互式 HTML 复习页**。
-<img width="587" height="567" alt="3" src="https://github.com/user-attachments/assets/b7aeaf4b-ed81-40b5-82b4-9723385b4557" />
-<img width="583" height="557" alt="2" src="https://github.com/user-attachments/assets/da81fb43-c6b2-40e9-babe-2e6fe41d29d7" />
+<img width="3840" height="2160" alt="23" src="https://github.com/user-attachments/assets/ddcf3e57-4087-401b-be11-ed88e71cef42" />
+
 
 ## 功能
 
